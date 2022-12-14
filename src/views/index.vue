@@ -82,13 +82,13 @@
             </ul>
           </li>
         </ul>
-        <ul class="user-info-menu right-links list-inline list-unstyled">
+<!--         <ul class="user-info-menu right-links list-inline list-unstyled">
           <li class="hidden-sm hidden-xs">
             <a href="https://github.com/Anjaxs/WebStack-vue" target="_blank">
               <i class="fa-github"></i> GitHub
             </a>
           </li>
-        </ul>
+        </ul> -->
       </nav>
 
       <div v-for="(item, idx) in items" :key="idx">
