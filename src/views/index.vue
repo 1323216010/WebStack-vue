@@ -46,7 +46,7 @@
             </ul>
           </li>
           <!-- 关于本站 -->
-          <li class="submit-tag">
+<!--           <li class="submit-tag">
             <router-link to="/about">
               <i class="linecons-heart"></i>
               <span class="tooltip-blue">关于本站</span>
@@ -54,7 +54,7 @@
                 >♥︎</span
               >
             </router-link>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>
